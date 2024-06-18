@@ -1,0 +1,2 @@
+！ Note: The warehouse was built to deal with the problem of edge identification of large-area photovoltaic arrays, and the whole project was written in PCL library and C++. The ultimate goal is to obtain the corners of the rectangular frame of the PV panel substring and thus calculate the tilt angle of the PV panel.
+        In view of the author's lack of programming ability, all interested and learners are welcome to participate in the development and learn together. The data is converted from DJI drone LAS file to PCD format.
